@@ -514,3 +514,6 @@ def SENET50(include_top=True, weights='vggface',
         model.load_weights(weights)
 
     return model
+
+
+    return model
